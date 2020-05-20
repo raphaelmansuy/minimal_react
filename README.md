@@ -29,7 +29,7 @@ ReactDOM.render(<App/>,document.getElementById('root'))
 ```
 
 ### public/index.html
-````html
+```html
 <html>
   <body>
       <div id="root"/>
